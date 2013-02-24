@@ -1,5 +1,4 @@
 body  {
-    background-image: url(../img/bgportal.jpg);
     background-size: 100% 100%;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -12,8 +11,8 @@ body  {
 }
 
 #navigation {
-    margin-left: 80%;
-    margin-top: 20%;
+    margin-left: 75%;
+    margin-top: 19%;
 }
 
 img{
@@ -23,8 +22,11 @@ img{
 }
 
 #git{
-    height: 55px;
-    width: 55px;
+    position:relative;
+    left: 11px;
+    top: 10px;
+    height: 60px;
+    width: 60px;
 }
 
 li {
@@ -33,7 +35,7 @@ li {
 }
 
 ul li a {
-    color: #A4A4A4;
+    color: #D8D8D8;
     font-family: myFont;
     font-size: 45px;
     text-decoration: none;
