@@ -1,0 +1,44 @@
+body  {
+    background-image: url(../img/bgportal.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+	background-position:left top;　
+}
+
+@font-face{
+	font-family: "myFont";
+	src:url(../font/DK_Meshuggeneh.otf);
+}
+
+#navigation {
+    margin-left: 80%;
+    margin-top: 20%;
+}
+
+img{
+    padding: 5px;
+    width: 40px;
+    height: 40px;
+}
+
+#git{
+    height: 55px;
+    width: 55px;
+}
+
+li {
+    padding: 8px;
+    list-style: none;
+}
+
+ul li a {
+    color: #A4A4A4;
+    font-family: myFont;
+    font-size: 45px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+}
