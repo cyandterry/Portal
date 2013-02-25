@@ -1,3 +1,0 @@
-Portal
-======
-This is the portal for all my website. Currently there's nothing fancy out there, but I will add more soon...
