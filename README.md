@@ -1,4 +1,4 @@
-Portal
-======
+<h2>Portal</h2>
 
-This is my Portal page for personal websites. Currenty there's nothing fancy out there. But I will add more things soon...
+<p>This is a Portal page for my personal websites.</p>
+<p>Under construction and to be continued...</p>
